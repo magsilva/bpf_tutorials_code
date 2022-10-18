@@ -1,6 +1,6 @@
 # Companion code for All your tracing are belong to BPF
 
-The blog post can be found at the following link: [Link to blog post](https://trailofbits.com)
+The blog post can be found at the following link: [Link to blog post](https://blog.trailofbits.com/2021/11/09/all-your-tracing-are-belong-to-bpf/)
 
 # Build instructions
 
